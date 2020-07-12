@@ -5,7 +5,7 @@
 <p align="center"><img width="50%" src="https://github.com/Theshedman/Theshedman/blob/master/profile.jpg"></p>
 
 <h2 align="center">Technologies</h2>
-<p align="center">TypeScript, NodeJs, ReactJs, Express, Redis, Postgres, MongoDB, Kubernates, Docker, InversifyJs, JavaScript, GCP</p>
+<p align="center">TypeScript, NodeJs, ReactJs, Express, Redis, Postgres, MongoDB, Kubernetes, Docker, InversifyJs, JavaScript, GCP</p>
 
 <h2 align="center">Get In Touch</h2>
 
