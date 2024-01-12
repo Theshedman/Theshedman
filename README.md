@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Shedrack Ajaegbu</h1>
+<p align="center"><img style="border-radius: 50%" width="150px" height="150px" src="./profile.jpg"></p>
 
-<p align="center"><img width="12%" src="https://github.com/Theshedman/Theshedman/blob/master/profile.jpg"></p>
+<h1 align="center" style="margin-top: -28px">Hi, I'm Shedrack Ajaegbu</h1>
 
 <p align="center">Senior Software Engineer with over 6 years of experience in the software industry. Proficient in modern technologies and languages such as Java, Spring Boot, JavaScript,
 React, NodeJS, TypeScript, etc. Successfully delivered complex projects in diverse industries including healthcare, finance, transportation (ride-hailing), and e-commerce.
