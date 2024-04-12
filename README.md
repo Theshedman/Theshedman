@@ -1,11 +1,9 @@
 <h1 align="center" style="margin-top: -28px">Hi, I'm Shedrack Ajaegbu</h1>
 
-<p align="center">Senior Software Engineer with over 6 years of experience in the software industry. Proficient in modern technologies and languages such as Java, Spring Boot, JavaScript,
-React, NodeJS, TypeScript, etc. Successfully delivered complex projects in diverse industries including healthcare, finance, transportation (ride-hailing), and e-commerce.
-Excel in leading development teams, implementing efficient coding practices, and driving product development lifecycle. Strong ability to liaise between technical and non-technical stakeholders. Committed to continuous learning and growth in the rapidly changing tech industry.</p>
+<p align="center">Experienced Software Engineer with a focus on system design and architecture, passionate about guiding cross-functional teams through the full SDLC. Experienced in scalable cloud solutions using Azure & AWS. Proven ability to mentor and empower teams to achieve success.</p>
 
 <h2 align="center">Technologies</h2>
-<p align="center">Java, Spring/Spring Boot, TypeScript, NodeJs, NestJS, ReactJs, Express, Redis, Postgres, MongoDB, Kubernetes, Docker, InversifyJs, JavaScript, GCP, Azure</p>
+<p align="center">Java, Spring/Spring Boot, GoLang, TypeScript, NodeJs, NestJS, ReactJS/NextJS, Svelte/SvelteKit, Express, Redis, Postgres, MongoDB, Kubernetes, Docker, InversifyJs, JavaScript, GCP, Azure, AWS</p>
 
 <h2 align="center">Get In Touch</h2>
 
