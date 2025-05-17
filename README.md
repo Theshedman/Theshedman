@@ -1,12 +1,35 @@
-<h1 align="center" style="margin-top: -28px">Hi, I'm Shedrack Ajaegbu</h1>
+# 👋 Hi, I'm Shedrack Ajaegbu
 
-<p align="center">Experienced Software Engineer with a focus on system design and architecture, passionate about guiding cross-functional teams through the full SDLC. Experienced in scalable cloud solutions using Azure & AWS. Proven ability to mentor and empower teams to achieve success.</p>
+🚀 **Senior Backend, Platform, and DevOps Engineer**  
+📍 Open to Remote, Contract, and Relocation  
+📫 Email: shedrack3@gmail.com  
+🔗 [My Resume (12+ Years)](link-to-resume)  
+🔗 [LinkedIn](https://linkedin.com/in/ajaegbu-shedrack)
 
-<h2 align="center">Technologies</h2>
-<p align="center">Java, Spring/Spring Boot, GoLang, TypeScript, NodeJs, NestJS, ReactJS/NextJS, Svelte/SvelteKit, Express, Redis, Postgres, MongoDB, Kubernetes, Docker, InversifyJs, JavaScript, GCP, Azure, AWS</p>
+---
 
-<h2 align="center">Get In Touch</h2>
+## 🛠 Tech Stack & Specialties
 
-<p align="center">Twitter: <a href="https://twitter.com/theshedman_">@theshedman_</a></p>
-<p align="center">LinkedIn: <a href="https://linkedin.com/in/ajaegbu-shedrack">Shedrack Ajaegbu</a></p>
-<p align="center">Email: <a href="mailto:shedrack3@gmail.com">shedrack3@gmail.com</a></p>
+- **Languages**: Java (Spring Boot), Go, TypeScript, Node.js, Python
+- **Cloud & Infra**: Kubernetes, Docker, Terraform, AWS, Azure
+- **DevOps**: GitHub Actions, Jenkins, Prometheus, Grafana, Helm
+- **Security**: Keycloak, OAuth2, JWT, Kong Gateway
+- **Architecture**: Microservices, Event-Driven, Domain-Driven Design
+
+---
+
+## 🧠 About Me
+
+I'm a system-level thinker with 12+ years in software engineering, focused on building scalable systems and developer infrastructure.  
+I recently led engineering at Emote Care (UK), architecting a secure, multi-role therapy platform using Go, Kubernetes, and Kong Gateway.
+
+---
+
+## 📄 Resume
+- 📄 [Download My Resume (12+ Yrs)](link-to-resume)
+
+---
+
+## 📫 Let's Connect
+- GitHub: [@Theshedman](https://github.com/Theshedman)
+- LinkedIn: [ajaegbu-shedrack](https://linkedin.com/in/ajaegbu-shedrack)
