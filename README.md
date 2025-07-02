@@ -3,7 +3,7 @@
 🚀 **Senior Backend, Platform, and DevOps Engineer**  
 📍 Open to Remote, Contract, and Relocation  
 📫 Email: shedrack3@gmail.com  
-🔗 [My Resume (12+ Years)](link-to-resume)  
+🔗 [My Resume (12+ Years)](https://github.com/Theshedman/Theshedman/blob/master/Shedrack%20Ajaegbu%20Resume.pdf)  
 🔗 [LinkedIn](https://linkedin.com/in/ajaegbu-shedrack)
 
 ---
@@ -26,7 +26,7 @@ I recently led engineering at Emote Care (UK), architecting a secure, multi-role
 ---
 
 ## 📄 Resume
-- 📄 [Download My Resume (12+ Yrs)](link-to-resume)
+- 📄 [Download My Resume (12+ Yrs)](https://github.com/Theshedman/Theshedman/blob/master/Shedrack%20Ajaegbu%20Resume.pdf)
 
 ---
 
